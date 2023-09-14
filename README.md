@@ -2,6 +2,16 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Steps to run the project
+```
+1. First copy .env.example as .env
+2. Then update the url in .env
+3. run npm install or yarn install
+
+finally run the commands.
+Thank you.
+```
+
 First, run the development server:
 
 ```bash
