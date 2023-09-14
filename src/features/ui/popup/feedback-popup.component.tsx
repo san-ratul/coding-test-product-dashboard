@@ -1,5 +1,4 @@
 import {ReactNode, useEffect, useRef} from "react";
-import {pop} from "@jridgewell/set-array";
 
 interface PopupProps {
     isOpen: boolean;

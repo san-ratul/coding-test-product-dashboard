@@ -6,6 +6,7 @@ import Logo from "@/images/gracenote logo.svg"
 import {FeedbackPopup} from "@/features/ui/popup";
 import {UserFeedback} from "@/features/layouts/navigation/user-feedback.component";
 import {FeedbackResponse} from "@/features/layouts/navigation/feedback-response.component";
+
 const user = {
     name: 'Tom Cook',
     email: 'tom@example.com',
